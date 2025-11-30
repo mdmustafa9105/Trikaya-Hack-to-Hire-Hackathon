@@ -1,0 +1,9 @@
+{
+  "name": "Pawbrûlée",
+  "description": "A social media platform designed to connect pet lovers, rescue organizations, and veterinarians, with a strong focus on animal welfare.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
